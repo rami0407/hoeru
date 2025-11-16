@@ -1,0 +1,5 @@
+{
+  "name": "كيف الحال؟",
+  "description": "A simple and friendly web application for educators to check on their students' well-being. Students can share how they feel by selecting an emoji and optionally adding a comment.",
+  "requestFramePermissions": []
+}
